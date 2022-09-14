@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shabirafiu
 - 👀 I’m interested in a data science or data analyst entry-level position
 - 🌱 I’m currently learning python and machine learning 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dolaposhabi58@gmail.com
 
 
